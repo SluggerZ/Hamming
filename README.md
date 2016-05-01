@@ -1,0 +1,2 @@
+# Hamming
+(JS) Hamming Calculator
